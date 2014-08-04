@@ -1,7 +1,7 @@
 OPEN_IOS_PROJECTS
 =================
 
-GITHUB 开源 iOS 项目分类索引大全(持续完善中...)
+GITHUB 开源 iOS 项目分类索引大全(持续完善中...(需要把https://github.com/edagarli/open-ios-projects/的项目以markdown形式搬过来。。))
 
 
 ##系统基础库
