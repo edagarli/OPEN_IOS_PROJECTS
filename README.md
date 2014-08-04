@@ -1,7 +1,7 @@
 OPEN_IOS_PROJECTS
 =================
 
-GITHUB 开源 iOS 项目分类索引大全(持续完善中...)一套Twtter库
+GITHUB 开源 iOS 项目分类索引大全(持续完善中...
 
 
 ##系统基础库
